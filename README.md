@@ -108,6 +108,6 @@ If you have PHP 8.2+ and Composer installed:
 
 ## Live Deployments
 
--   **Frontend**:(`forge2-qualifier-kanishka-mishra-ir4yk7gpi.vercel.app`)
--   **Backend API**: Run locally (`http://127.0.0.1:8000`)
+-   **Frontend**: [Live Demo on Vercel](https://forge2-qualifier-kanishka-mishra-ir4yk7gpi.vercel.app)
+-   **Backend API**: Run locally ([http://127.0.0.1:8000](http://127.0.0.1:8000))
 -   **Owner / Author**: Kanishka Mishra
